@@ -1,0 +1,14 @@
+[
+    {
+        "chunk_size": 500,
+        "overlap": 50,
+        "documents": 48,
+        "chunks": 48
+    },
+    {
+        "chunk_size": 700,
+        "overlap": 100,
+        "documents": 48,
+        "chunks": 48
+    }
+]

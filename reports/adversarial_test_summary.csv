@@ -1,0 +1,11 @@
+attack_category,severity,test_count
+direct_override,critical,12
+direct_override,high,12
+document_injection,critical,12
+document_injection,high,12
+role_escalation,critical,12
+role_escalation,high,12
+secret_exfiltration,critical,12
+secret_exfiltration,high,12
+tool_misuse,critical,12
+tool_misuse,high,12

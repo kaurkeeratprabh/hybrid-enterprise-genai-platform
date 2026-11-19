@@ -1,0 +1,49 @@
+document_id,department,title,version,status,path,classification,effective_date
+IT-001,IT,Acceptable Use of Company Devices,1.0,active,01_knowledge_corpus/it-001_acceptable_use_of_company_devices.md,Internal,2026-01-01
+IT-002,IT,IT Access Request Procedure,1.0,active,01_knowledge_corpus/it-002_it_access_request_procedure.md,Internal,2026-01-01
+IT-003,IT,Service Desk Incident Priorities,1.0,active,01_knowledge_corpus/it-003_service_desk_incident_priorities.md,Internal,2026-01-01
+IT-004,IT,Backup and Restore Standard,1.0,active,01_knowledge_corpus/it-004_backup_and_restore_standard.md,Internal,2026-01-01
+IT-005,IT,Change Management Procedure,1.0,active,01_knowledge_corpus/it-005_change_management_procedure.md,Internal,2026-01-01
+IT-006,IT,Remote Work Technology Standard,1.0,active,01_knowledge_corpus/it-006_remote_work_technology_standard.md,Internal,2026-01-01
+HR-001,HR,Annual Leave Policy,1.0,active,01_knowledge_corpus/hr-001_annual_leave_policy.md,Internal,2026-01-01
+HR-002,HR,Employee Onboarding Checklist,1.0,active,01_knowledge_corpus/hr-002_employee_onboarding_checklist.md,Internal,2026-01-01
+HR-003,HR,Performance Review Cycle,1.0,active,01_knowledge_corpus/hr-003_performance_review_cycle.md,Internal,2026-01-01
+HR-004,HR,Learning and Development Support,1.0,active,01_knowledge_corpus/hr-004_learning_and_development_support.md,Internal,2026-01-01
+HR-005,HR,Employee Grievance Procedure,1.0,active,01_knowledge_corpus/hr-005_employee_grievance_procedure.md,Internal,2026-01-01
+HR-006,HR,Attendance and Flexible Work,1.0,active,01_knowledge_corpus/hr-006_attendance_and_flexible_work.md,Internal,2026-01-01
+FIN-001,Finance,Employee Expense Reimbursement,1.0,active,01_knowledge_corpus/fin-001_employee_expense_reimbursement.md,Internal,2026-01-01
+FIN-002,Finance,Purchase Invoice Processing,1.0,active,01_knowledge_corpus/fin-002_purchase_invoice_processing.md,Internal,2026-01-01
+FIN-003,Finance,Payment Approval Matrix,1.0,active,01_knowledge_corpus/fin-003_payment_approval_matrix.md,Internal,2026-01-01
+FIN-004,Finance,Month-End Close Calendar,1.0,active,01_knowledge_corpus/fin-004_month-end_close_calendar.md,Internal,2026-01-01
+FIN-005,Finance,Petty Cash Controls,1.0,active,01_knowledge_corpus/fin-005_petty_cash_controls.md,Internal,2026-01-01
+FIN-006,Finance,Financial Record Retention,1.0,active,01_knowledge_corpus/fin-006_financial_record_retention.md,Internal,2026-01-01
+PROC-001,Procurement,Supplier Onboarding Standard,1.0,active,01_knowledge_corpus/proc-001_supplier_onboarding_standard.md,Internal,2026-01-01
+PROC-002,Procurement,Competitive Bidding Thresholds,1.0,active,01_knowledge_corpus/proc-002_competitive_bidding_thresholds.md,Internal,2026-01-01
+PROC-003,Procurement,Purchase Requisition Workflow,1.0,active,01_knowledge_corpus/proc-003_purchase_requisition_workflow.md,Internal,2026-01-01
+PROC-004,Procurement,Conflict of Interest in Sourcing,1.0,active,01_knowledge_corpus/proc-004_conflict_of_interest_in_sourcing.md,Internal,2026-01-01
+PROC-005,Procurement,Contract Review and Approval,1.0,active,01_knowledge_corpus/proc-005_contract_review_and_approval.md,Internal,2026-01-01
+PROC-006,Procurement,Supplier Performance Review,1.0,active,01_knowledge_corpus/proc-006_supplier_performance_review.md,Internal,2026-01-01
+CS-001,Customer Support,Customer Complaint Acknowledgement,1.0,active,01_knowledge_corpus/cs-001_customer_complaint_acknowledgement.md,Internal,2026-01-01
+CS-002,Customer Support,Refund Eligibility Rules,1.0,active,01_knowledge_corpus/cs-002_refund_eligibility_rules.md,Internal,2026-01-01
+CS-003,Customer Support,Escalation and Severity Matrix,1.0,active,01_knowledge_corpus/cs-003_escalation_and_severity_matrix.md,Internal,2026-01-01
+CS-004,Customer Support,Customer Data Verification,1.0,active,01_knowledge_corpus/cs-004_customer_data_verification.md,Internal,2026-01-01
+CS-005,Customer Support,Service Level Targets,1.0,active,01_knowledge_corpus/cs-005_service_level_targets.md,Internal,2026-01-01
+CS-006,Customer Support,Knowledge Base Article Maintenance,1.0,active,01_knowledge_corpus/cs-006_knowledge_base_article_maintenance.md,Internal,2026-01-01
+SEC-001,Information Security,Information Classification Policy,1.0,active,01_knowledge_corpus/sec-001_information_classification_policy.md,Internal,2026-01-01
+SEC-002,Information Security,Multi-Factor Authentication Standard,1.0,active,01_knowledge_corpus/sec-002_multi-factor_authentication_standard.md,Internal,2026-01-01
+SEC-003,Information Security,Security Incident Reporting,1.0,active,01_knowledge_corpus/sec-003_security_incident_reporting.md,Internal,2026-01-01
+SEC-004,Information Security,Data Retention and Deletion,1.0,active,01_knowledge_corpus/sec-004_data_retention_and_deletion.md,Internal,2026-01-01
+SEC-005,Information Security,Third-Party Data Sharing,1.0,active,01_knowledge_corpus/sec-005_third-party_data_sharing.md,Internal,2026-01-01
+SEC-006,Information Security,Password and Secret Management,1.0,active,01_knowledge_corpus/sec-006_password_and_secret_management.md,Internal,2026-01-01
+SALES-001,Sales Operations,Lead Qualification Standard,1.0,active,01_knowledge_corpus/sales-001_lead_qualification_standard.md,Internal,2026-01-01
+SALES-002,Sales Operations,Discount Approval Policy,1.0,active,01_knowledge_corpus/sales-002_discount_approval_policy.md,Internal,2026-01-01
+SALES-003,Sales Operations,CRM Data Quality Rules,1.0,active,01_knowledge_corpus/sales-003_crm_data_quality_rules.md,Internal,2026-01-01
+SALES-004,Sales Operations,Sales Handover Procedure,1.0,active,01_knowledge_corpus/sales-004_sales_handover_procedure.md,Internal,2026-01-01
+SALES-005,Sales Operations,Territory Assignment Rules,1.0,active,01_knowledge_corpus/sales-005_territory_assignment_rules.md,Internal,2026-01-01
+SALES-006,Sales Operations,Pipeline Review Cadence,1.0,active,01_knowledge_corpus/sales-006_pipeline_review_cadence.md,Internal,2026-01-01
+FAC-001,Facilities,Visitor Access Procedure,1.0,active,01_knowledge_corpus/fac-001_visitor_access_procedure.md,Internal,2026-01-01
+FAC-002,Facilities,Workplace Safety Reporting,1.0,active,01_knowledge_corpus/fac-002_workplace_safety_reporting.md,Internal,2026-01-01
+FAC-003,Facilities,Office Access and Keys,1.0,active,01_knowledge_corpus/fac-003_office_access_and_keys.md,Internal,2026-01-01
+FAC-004,Facilities,Equipment Maintenance Schedule,1.0,active,01_knowledge_corpus/fac-004_equipment_maintenance_schedule.md,Internal,2026-01-01
+FAC-005,Facilities,Emergency Evacuation Procedure,1.0,active,01_knowledge_corpus/fac-005_emergency_evacuation_procedure.md,Internal,2026-01-01
+FAC-006,Facilities,Meeting Room Booking Rules,1.0,active,01_knowledge_corpus/fac-006_meeting_room_booking_rules.md,Internal,2026-01-01

@@ -1,0 +1,16 @@
+{
+    "total_test_cases": 120,
+    "attack_categories": {
+        "direct_override": 24,
+        "document_injection": 24,
+        "secret_exfiltration": 24,
+        "role_escalation": 24,
+        "tool_misuse": 24
+    },
+    "severity_distribution": {
+        "high": 60,
+        "critical": 60
+    },
+    "should_block": 120,
+    "should_not_block": 0
+}

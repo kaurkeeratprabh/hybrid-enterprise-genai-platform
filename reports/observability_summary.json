@@ -1,0 +1,32 @@
+{
+    "total_events": 5000,
+    "status_distribution": {
+        "success": 3986,
+        "retrieval_empty": 358,
+        "timeout": 355,
+        "guardrail_block": 301
+    },
+    "average_latency_ms": 3442.82,
+    "p95_latency_ms": 38368.0,
+    "guardrail_triggered": 301,
+    "average_retrieved_chunks": 1.0,
+    "average_citations": 0.48,
+    "feedback_distribution": {
+        "positive": 1278,
+        "not_provided": 1248,
+        "neutral": 1245,
+        "negative": 1229
+    },
+    "route_distribution": {
+        "local_rag": 1250,
+        "local_chat": 1250,
+        "agent_tool": 1250,
+        "embedding": 1250
+    },
+    "model_distribution": {
+        "qwen2.5:7b": 1250,
+        "llama3.1:8b": 1250,
+        "mistral:7b": 1250,
+        "local-embedding-bge-m3": 1250
+    }
+}

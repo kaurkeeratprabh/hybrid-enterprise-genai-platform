@@ -1,0 +1,292 @@
+{
+  "files": {
+    "cs-001_customer_complaint_acknowledgement.md": {
+      "file_hash": "a6059a6b4d98ee869202b75d308d01173429ab4e4c0bbd43b3fd4f73c29d4407",
+      "document_id": "CS-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "cs-002_refund_eligibility_rules.md": {
+      "file_hash": "8ad949b87effab4dcbba5791e1e350732be0bb9def7465cfb04c80dcc7fc9429",
+      "document_id": "CS-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "cs-003_escalation_and_severity_matrix.md": {
+      "file_hash": "53517037f520a73ed02a21d19a2b4028c140ac1f6e5b41e6a52123772ac68283",
+      "document_id": "CS-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "cs-004_customer_data_verification.md": {
+      "file_hash": "143553ca26b65ed9fe42a7126d40cf889d33afec6f261d11477779eb029c2172",
+      "document_id": "CS-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "cs-005_service_level_targets.md": {
+      "file_hash": "1c4bd77d7278d36b91faacbad384bffdce3a266687982f0a78f8d17d85253a79",
+      "document_id": "CS-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "cs-006_knowledge_base_article_maintenance.md": {
+      "file_hash": "ede6222c52543ba5e0f8b423c7d0b5b08f283e8147c6573286f65ee35e5ec1a7",
+      "document_id": "CS-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-001_visitor_access_procedure.md": {
+      "file_hash": "3b49c9d329d89fe1bc0b72f588778eb5f0f8126f0d4365a5b696edd0b1285e1a",
+      "document_id": "FAC-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-002_workplace_safety_reporting.md": {
+      "file_hash": "56d682434a21af4c62b2a06d82158e68fdab184e150923d8e9532d9843d506a8",
+      "document_id": "FAC-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-003_office_access_and_keys.md": {
+      "file_hash": "60aa6490f597dc994e77f86aeccef76f13854179994e744deaaf73ccb89b43d5",
+      "document_id": "FAC-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-004_equipment_maintenance_schedule.md": {
+      "file_hash": "19152ce21023a2ee682179da16edd7e1d9b8732f46b5a0dbd64b306005b1e691",
+      "document_id": "FAC-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-005_emergency_evacuation_procedure.md": {
+      "file_hash": "19e096b56d49208d594eb3b170d6b863a8e5e6090f150c340ed7f3b1f50113b1",
+      "document_id": "FAC-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fac-006_meeting_room_booking_rules.md": {
+      "file_hash": "b243562b76e5ea777a216cb3be06a3d9793eb381fb2dfdc6f3b83fff1ee62641",
+      "document_id": "FAC-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-001_employee_expense_reimbursement.md": {
+      "file_hash": "f7b30a689333dcdd8c2d03694a4ff075303bb2acd13f83bc8d095b85a8576e27",
+      "document_id": "FIN-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-002_purchase_invoice_processing.md": {
+      "file_hash": "1e3256dd3048dfab85e0b3a92d82d1426e99dda611ec147dcb659d885466bd70",
+      "document_id": "FIN-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-003_payment_approval_matrix.md": {
+      "file_hash": "f0116fc83b58ed2af619895bb6f11c30f953ceb092b7236ffd25d3ee2a2bb335",
+      "document_id": "FIN-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-004_month-end_close_calendar.md": {
+      "file_hash": "762c515586803d749701494aae5aa27bdbff730ee1e324a364de2610a6f4af2e",
+      "document_id": "FIN-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-005_petty_cash_controls.md": {
+      "file_hash": "aa13ba6d88897009952d511ab8737f9ffaf322b0ee119519ed805bb697663837",
+      "document_id": "FIN-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "fin-006_financial_record_retention.md": {
+      "file_hash": "53cbfc567fda9915046d3f063817610490607ce247510da491d360a73916828d",
+      "document_id": "FIN-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-001_annual_leave_policy.md": {
+      "file_hash": "7ce3d273dce2ce13c68bce25b811a153eee0bc8280164c7d56acab3cf54846c8",
+      "document_id": "HR-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-002_employee_onboarding_checklist.md": {
+      "file_hash": "9e05f33a6a44d0e935e842687131a8de7a03dd64697abc69df7f9a2d2e61b63c",
+      "document_id": "HR-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-003_performance_review_cycle.md": {
+      "file_hash": "481d013f5597a2b7a908321b70d2f529bd0ddc7abb5959bdf0f21f2e45229d37",
+      "document_id": "HR-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-004_learning_and_development_support.md": {
+      "file_hash": "7982f898d47d90d5bd9987c83949df5fd88cec92d5e692d29e2e3f7fd7e86268",
+      "document_id": "HR-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-005_employee_grievance_procedure.md": {
+      "file_hash": "1fb990a3afbeb4adbba623544c2b62e77e60406ca93b6c5b4d12d2dbbd63c614",
+      "document_id": "HR-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "hr-006_attendance_and_flexible_work.md": {
+      "file_hash": "fd826a8026fc3296c5f37b79fc0dc6b10dce9c626ac72298be6bdda5cfc8fab6",
+      "document_id": "HR-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-001_acceptable_use_of_company_devices.md": {
+      "file_hash": "0cc82157535793857304e7405d9e0ccb50417ec50ebc8a52bc5de0556d64abdd",
+      "document_id": "IT-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-002_it_access_request_procedure.md": {
+      "file_hash": "985e20d5e5bdf3c2e19143b7113755c45d83e9bebc67f920ce4370ada2e384cf",
+      "document_id": "IT-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-003_service_desk_incident_priorities.md": {
+      "file_hash": "ceb3b4eb3959962d367a9d205abedfe7d1cdead6441c08c7493d0e9627533b11",
+      "document_id": "IT-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-004_backup_and_restore_standard.md": {
+      "file_hash": "e8ac5fadc1e45b643b757063baea0c4562ba7e1623abfe089a91695c0d8740f0",
+      "document_id": "IT-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-005_change_management_procedure.md": {
+      "file_hash": "008642e7bcfa6c78b2e52c7d5b5c43f01d5eab0ba0ea6d873ccc351c9060e55d",
+      "document_id": "IT-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "it-006_remote_work_technology_standard.md": {
+      "file_hash": "e848c707adb48a70f0815a412a6ddcff97b15e9f3aab30650a908612bbb1cc1c",
+      "document_id": "IT-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-001_supplier_onboarding_standard.md": {
+      "file_hash": "134533db012f23dad732172d40918cfeddab5ac49d16e58305792c9f51b977de",
+      "document_id": "PROC-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-002_competitive_bidding_thresholds.md": {
+      "file_hash": "0e744eae8e5556df38c94a9fd00884479cdb31c387e2f670642e278367e090a2",
+      "document_id": "PROC-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-003_purchase_requisition_workflow.md": {
+      "file_hash": "3545d91ee330f5186d6f9e977203b7916892fda526949520f6f7ee82159b6476",
+      "document_id": "PROC-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-004_conflict_of_interest_in_sourcing.md": {
+      "file_hash": "379092a225b240c85e9c6182b348ebbb8a3113d451e58fe9e9b3337bdd8c6569",
+      "document_id": "PROC-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-005_contract_review_and_approval.md": {
+      "file_hash": "560b7f8fd5aa357e1bcbb17c6e5367d27393feb03529c4e040ab27c7bfad13d5",
+      "document_id": "PROC-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "proc-006_supplier_performance_review.md": {
+      "file_hash": "5e660385d9af0bb7b43bb86c1c287a13222c4c3369c1d8c05eb46a790d5d5886",
+      "document_id": "PROC-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-001_lead_qualification_standard.md": {
+      "file_hash": "e2b96f7ebd7194ed18ce70372a45e29fff65ff37488251a2a01a6427951deed6",
+      "document_id": "SALES-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-002_discount_approval_policy.md": {
+      "file_hash": "675ba5d1235a1a7e30a28069e7d40f2f5aee6f2413d768fc029092dbddf47801",
+      "document_id": "SALES-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-003_crm_data_quality_rules.md": {
+      "file_hash": "9b85db474389bd25469e03e0b6609d4e74813011b6e407a12a10a4c5844cdf22",
+      "document_id": "SALES-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-004_sales_handover_procedure.md": {
+      "file_hash": "69a4bf5a316c81fcc624781b692dc14a629ec4bc63cff75eea77939e725c87b5",
+      "document_id": "SALES-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-005_territory_assignment_rules.md": {
+      "file_hash": "065e65d9f71279eca45d1a1e6051524a18f6fd36e7ae696bba5643fc93b5225b",
+      "document_id": "SALES-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sales-006_pipeline_review_cadence.md": {
+      "file_hash": "9b63e8f9057da3f07ad9003217a6079e19e7eae15a0ae47b100cdd88d25bcb35",
+      "document_id": "SALES-006",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-001_information_classification_policy.md": {
+      "file_hash": "c0e9f9d15c57c981ae271d0fec7ae4233e13cf6ab141b1702999b6962ae4eab9",
+      "document_id": "SEC-001",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-002_multi-factor_authentication_standard.md": {
+      "file_hash": "9633c120cbd183991f8783939ef1d27fae27921594b217d3ea00a50c58a8e9da",
+      "document_id": "SEC-002",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-003_security_incident_reporting.md": {
+      "file_hash": "85f90c5faa5742fd177d14073e72acc51501afa37fc77af5ac55268933ec1139",
+      "document_id": "SEC-003",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-004_data_retention_and_deletion.md": {
+      "file_hash": "a66579d4a4ee9cadb7712994a24cdfa052196a297a0045b9243088627a2b9d0d",
+      "document_id": "SEC-004",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-005_third-party_data_sharing.md": {
+      "file_hash": "823e888a329036f3d6e5d52794fa73fb6a831d8329712e8e94d3e3a0bc8e4fac",
+      "document_id": "SEC-005",
+      "version": "1.0",
+      "status": "active"
+    },
+    "sec-006_password_and_secret_management.md": {
+      "file_hash": "75d7780d3cfec2737eae8e0fb10371e937d59205e6d086544cf9ec2f1f0d7c83",
+      "document_id": "SEC-006",
+      "version": "1.0",
+      "status": "active"
+    }
+  }
+}

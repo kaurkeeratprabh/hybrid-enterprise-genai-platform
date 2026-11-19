@@ -1,0 +1,17 @@
+route,status,event_count
+agent_tool,guardrail_block,82
+agent_tool,retrieval_empty,97
+agent_tool,success,984
+agent_tool,timeout,87
+embedding,guardrail_block,78
+embedding,retrieval_empty,83
+embedding,success,998
+embedding,timeout,91
+local_chat,guardrail_block,72
+local_chat,retrieval_empty,91
+local_chat,success,1004
+local_chat,timeout,83
+local_rag,guardrail_block,69
+local_rag,retrieval_empty,87
+local_rag,success,1000
+local_rag,timeout,94

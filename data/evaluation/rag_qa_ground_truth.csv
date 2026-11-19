@@ -1,0 +1,241 @@
+query_id,question,reference_answer,expected_department,test_category,answerable
+Q-0001,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0002,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0003,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0004,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0005,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0006,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0007,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0008,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0009,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0010,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0011,"What approval is needed for a purchase of 50,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0012,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0013,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0014,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0015,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0016,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0017,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0018,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0019,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0020,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0021,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0022,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0023,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0024,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0025,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0026,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0027,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0028,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0029,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0030,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0031,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0032,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0033,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0034,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0035,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0036,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0037,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0038,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0039,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0040,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0041,"What approval is needed for a purchase of 18,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0042,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0043,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0044,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0045,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0046,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0047,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0048,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0049,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0050,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0051,"What approval is needed for a purchase of 50,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0052,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0053,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0054,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0055,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0056,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0057,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0058,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0059,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0060,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0061,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0062,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0063,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0064,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0065,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0066,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0067,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0068,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0069,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0070,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0071,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0072,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0073,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0074,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0075,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0076,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0077,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0078,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0079,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0080,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0081,"What approval is needed for a purchase of 18,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0082,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0083,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0084,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0085,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0086,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0087,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0088,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0089,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0090,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0091,"What approval is needed for a purchase of 50,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0092,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0093,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0094,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0095,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0096,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0097,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0098,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0099,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0100,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0101,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0102,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0103,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0104,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0105,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0106,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0107,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0108,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0109,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0110,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0111,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0112,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0113,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0114,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0115,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0116,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0117,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0118,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0119,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0120,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0121,"What approval is needed for a purchase of 18,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0122,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0123,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0124,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0125,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0126,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0127,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0128,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0129,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0130,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0131,"What approval is needed for a purchase of 50,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0132,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0133,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0134,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0135,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0136,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0137,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0138,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0139,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0140,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0141,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0142,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0143,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0144,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0145,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0146,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0147,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0148,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0149,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0150,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0151,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0152,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0153,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0154,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0155,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0156,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0157,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0158,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0159,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0160,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0161,"What approval is needed for a purchase of 18,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0162,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0163,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0164,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0165,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0166,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0167,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0168,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0169,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0170,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0171,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0172,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0173,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0174,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0175,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0176,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0177,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0178,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0179,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0180,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0181,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0182,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0183,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0184,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0185,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0186,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0187,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0188,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0189,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0190,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0191,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0192,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0193,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0194,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0195,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0196,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0197,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0198,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0199,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0200,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0201,"What approval is needed for a purchase of 18,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0202,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0203,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0204,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0205,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0206,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0207,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0208,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0209,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0210,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0211,"What approval is needed for a purchase of 50,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0212,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0213,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0214,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0215,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0216,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0217,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0218,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0219,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0220,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0221,"What approval is needed for a purchase of 120,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0222,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0223,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0224,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0225,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0226,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0227,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0228,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0229,What is required before a visitor enters a controlled area?,"The visitor must be pre-registered, checked in, wear a visitor badge and remain accompanied.",Facilities,multi-condition,True
+Q-0230,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
+Q-0231,"What approval is needed for a purchase of 200,000?","Purchases above 25,000 and up to 150,000 require department head approval and Procurement review. Purchases above 150,000 require CFO approval and at least two comparable quotations unless an exception is documented.",Finance,multi-hop / threshold,True
+Q-0232,How often is standard VPN access reviewed?,Standard VPN access is reviewed every 180 days.,IT Operations,fact retrieval,True
+Q-0233,How quickly must a Severity 1 incident be acknowledged?,Within 15 minutes.,IT Operations,fact retrieval,True
+Q-0234,How far in advance should annual leave be requested?,At least 5 working days before the intended start date.,Human Resources,fact retrieval,True
+Q-0235,What must an expense claim contain?,"An itemized receipt, business purpose, transaction date and cost centre.",Finance,multi-condition,True
+Q-0236,What independent check is required for vendor bank changes?,"Verify the change using a previously registered contact channel, independently of the change request.",Procurement,security policy,True
+Q-0237,What must an agent never ask a customer to disclose?,"Passwords, one-time passcodes and full payment card details.",Customer Support,safety,True
+Q-0238,Can restricted employee records be submitted to an unapproved public AI model?,No. Restricted data must not be placed in public AI services.,Information Security,policy reasoning,True
+Q-0239,What is the exact reimbursement cap for international hotel stays?,The supplied knowledge base does not specify an international hotel reimbursement cap. The assistant should abstain and direct the user to Finance.,Finance,unanswerable / abstention,False
+Q-0240,How should duplicate CRM leads be merged?,Only after matching the company domain and at least one additional identifier; the action should have an audit reason.,Sales Operations,multi-condition,True
