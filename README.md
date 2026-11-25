@@ -1,4 +1,4 @@
-# Project 03 – Module 2: Enterprise Knowledge Engineering & Advanced RAG
+# Project– Module 2: Enterprise Knowledge Engineering & Advanced RAG
 
 ## Features
 - Markdown parsing and normalization
